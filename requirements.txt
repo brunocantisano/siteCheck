@@ -1,6 +1,11 @@
 beautifulsoup4==4.6.0
 bs4==0.0.1
-urllib3==1.22
-requests==2.18.4
-DateTime==4.2
+certifi==2021.10.8
+chardet==3.0.4
 configparser==3.5.0
+DateTime==4.2
+idna==2.6
+pytz==2021.3
+requests==2.18.4
+urllib3==1.22
+zope.interface==5.4.0
